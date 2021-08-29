@@ -104,8 +104,8 @@ body {
     height: 100vh;
 }
 .container {
-    height: 90%;
-    width: 30%;
+    height: 580px;
+    width: 25rem;
 }
 .content {
     max-height: 60%;
@@ -124,13 +124,16 @@ body {
 button {
     margin-top: 10px;
     width: 24em;
-    height: 3em;
+    padding: 10px;
 }
 h1 {
     margin-bottom: 5px;
 }
 .plan {
    margin-right: 50px;
+  }
+  .footer {
+    margin-bottom: 20px;
   }
 
 
